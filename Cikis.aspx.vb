@@ -1,5 +1,5 @@
 ﻿
-Partial Class yonetim_Default
+Partial Class yonetim_Cikis
     Inherits System.Web.UI.Page
 
 End Class
